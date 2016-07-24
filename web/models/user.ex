@@ -31,4 +31,5 @@ defmodule Pxblog.User do
     else
       changeset
     end
+  end
 end
